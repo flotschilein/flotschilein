@@ -14,10 +14,13 @@
   <h3>⚙️ T O O L C H A I N</h3>
   <p>
     <img src="https://img.shields.io/badge/C%2FC%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=C81CDE" />
+    <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-000000?style=for-the-badge&logo=dotnet&logoColor=C81CDE" />
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C81CDE" />
-    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=C81CDE" />
+    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=C81CDE" />
+    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=C81CDE" />
     <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=C81CDE" />
     <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=C81CDE" />
+    <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=C81CDE" />
   </p>
 
   <p style="margin-top:8px;">
@@ -26,7 +29,6 @@
     <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=C81CDE" />
     <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=C81CDE" />
   </p>
-
   <h3>🧠 F O C U S</h3>
   <p style="font-size:14px;line-height:1.6;max-width:900px;margin:0 auto;">
     <strong>High Performance Compute</strong> <em>(Low Latency)</em> &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -35,11 +37,7 @@
     <strong>Edge Systems</strong> <em>(Hardware-Level Integrations)</em>
   </p>
 </div>
-<br>
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=flotschilein&show_icons=true&theme=transparent&hide_border=true&title_color=C81CDE&icon_color=C81CDE&text_color=888" />
-</p>
-<br>
+
 
 
 

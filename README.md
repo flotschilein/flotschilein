@@ -38,9 +38,9 @@
   </p>
 </div>
 
-<p align="center">
+<div align="center">
   ![Visitor Count](https://komarev.com/ghpvc/?username=flotschilein&color=blueviolet&style=flat-square&label=Profile+Views)
-</p>
+</div>
 
 
 <p align="center">

@@ -25,6 +25,10 @@
     <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=Github&logoColor=00BFFF" />
     <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=00BFFF" />
     <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=Kubernetes&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/NVIDIA%20NIM-000000?style=for-the-badge&logo=nvidia&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/gRPC-000000?style=for-the-badge&logo=grpc&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=00BFFF" />
   </p>
   <h3> F O C U S</h3>
   <p style="font-size:14px;line-height:1.6;max-width:900px;margin:0 auto;">
